@@ -5,8 +5,7 @@ description: "代表作"
 header-img: "img/zhihu.jpg"
 ---
 
-http://sranderson.pw/blog/2020/03/19/how-to-write/
-
+我没有什么代表作，你可以点点右下角的知乎看看我的回答
 
 
 
