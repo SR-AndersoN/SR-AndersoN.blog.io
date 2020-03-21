@@ -4,7 +4,7 @@ header-img: "img/headpageA2.jpg"
 tagline: "cn"  
 description: "凤歌笑孔丘"  # 一句话描述你的博客
 baseurl: ""
-url: "http://cnfeat"  # 此处填写你的博客地址 
+url: "http://sranderson.pw"  # 此处填写你的博客地址 
 
 # About/contact
 owner: 
@@ -50,12 +50,12 @@ defaults:
 comments :
   provider : disqus # 使用 disqus 评论模块，读者翻墙才能看见
   duoshuo :
-    short_name :  # 填写你的 disqus id
+    short_name : "SR Anderson" # 填写你的 disqus id
   disqus :
-      short_name :  # 填写你的 disqus id
+      short_name : "SR Anderson"  # 填写你的 disqus id
 
 # Analytics and webmaster tools stuff goes here
-google_analytics:  # 填写你  google_analytics id
+google_analytics: "SRANDERSON" # 填写你  google_analytics id
 google_verify:
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:
