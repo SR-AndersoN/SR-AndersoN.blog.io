@@ -5,7 +5,7 @@ description: "代表作"
 header-img: "img/zhihu.jpg"
 ---
 
-这个页面放置你的代表作。
+http://sranderson.pw/blog/2020/03/19/how-to-write/
 
 
 
