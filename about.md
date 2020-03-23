@@ -17,6 +17,7 @@ SR是Sr元素，第38号元素，这个元素很神秘
 还有就是记日记了。
 
 就是这样吧，其他信息我还会慢慢更新的。
+<img src="http://q7hawnr2l.bkt.clouddn.com/SRA.png"/>
 
 
 
