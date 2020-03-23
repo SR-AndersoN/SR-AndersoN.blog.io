@@ -17,5 +17,7 @@ description: 文章金句。
 <img src="http://q7hawnr2l.bkt.clouddn.com/306182.jpg" />
 
 
+可以的学会了代码就是
 
-<img src="  " />
+
+img src="  " /外加两个<>
