@@ -2,7 +2,7 @@
 layout: page
 title: "About"
 description: "博客描述 " 
-header-img: "img/headpageA1.jpg"
+header-img: "img/baozha.png"
 ---
 
 HI! 
