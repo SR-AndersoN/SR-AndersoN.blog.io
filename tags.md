@@ -2,7 +2,7 @@
 layout: page
 title: "Tags"
 description: "文章基因库"  
-header-img: "img/semantic.jpg"  
+header-img: "img/jiying.png"  
 ---
 
 本页使用方法
