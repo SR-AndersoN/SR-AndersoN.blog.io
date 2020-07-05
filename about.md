@@ -19,6 +19,10 @@ SR是Sr元素，第38号元素，这个元素很神秘
 就是这样吧，其他信息我还会慢慢更新的。
 <img src="http://q7hawnr2l.bkt.clouddn.com/image0.png" />
 
+QQ：3185858940
+facebook：18234892832
+微信：idonotlikecat
+
 
 
 
