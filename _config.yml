@@ -1,10 +1,10 @@
 # Site settings
 title: I LOVE PINKIE # 你的博客名字，可以定义修订
-header-img: "img/headpageA2.jpg"
+header-img: "img/headpageA1.jpg"
 tagline: "cn"  
 description: "凤歌笑孔丘"  # 一句话描述你的博客
 baseurl: ""
-url: "http://sranderson.pw"  # 此处填写你的博客地址 
+url: "http://sranderson.live"  # 此处填写你的博客地址 
 
 # About/contact
 owner: 
